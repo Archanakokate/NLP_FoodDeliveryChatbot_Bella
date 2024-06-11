@@ -31,6 +31,11 @@
 
 Note: Due to free tier hosting limitations, you might experience occasional server downtime. Under usual circumstances, the chatbot operates smoothly.
 
+### Bella Chatbot Demo
+
+https://drive.google.com/file/d/14iz3aCqumRDHosW81RqxuWNfaWoyK-HP/view?usp=sharing
+
+
 ### Future Scope for the Bella Bite Food Delivery Chatbot Project
 •	Enhanced Menu Options: Expand the chatbot's capabilities by incorporating a wider range of menu options, promotional items, and customizable dishes to cater to diverse customer preferences.
 
