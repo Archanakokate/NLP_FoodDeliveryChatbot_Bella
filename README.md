@@ -31,9 +31,26 @@
 
 Note: Due to free tier hosting limitations, you might experience occasional server downtime. Under usual circumstances, the chatbot operates smoothly.
 
-### Bella Chatbot Demo
 
-https://drive.google.com/file/d/14iz3aCqumRDHosW81RqxuWNfaWoyK-HP/view?usp=sharing
+### Website Demo
+
+
+https://github.com/Archanakokate/NLP_FoodDeliveryChatbot_BellaBite/assets/115995897/c04598b0-3a13-4b8b-85c8-0791dea776ec
+
+
+
+### BellaChatbot Demo - Place Order
+
+
+https://github.com/Archanakokate/NLP_FoodDeliveryChatbot_BellaBite/assets/115995897/f714c3d2-8123-47e4-bfab-ba142992fc21
+
+
+
+### BellaChatbot Demo - Track Order and Other Features
+
+
+https://github.com/Archanakokate/NLP_FoodDeliveryChatbot_BellaBite/assets/115995897/c9e8c78e-4306-4b1b-8062-2f5fd592d496
+
 
 
 ### Future Scope for the Bella Bite Food Delivery Chatbot Project
